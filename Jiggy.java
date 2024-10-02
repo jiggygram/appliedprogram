@@ -1,7 +1,4 @@
 public class Jiggy {
-    //
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompi
 
     public static class jiggy {
         int a = 31;
